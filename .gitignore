@@ -1,0 +1,15 @@
+# Python environment and cache
+__pycache__/
+*.pyc
+venv/
+venv_*
+emotion_env/
+# Conda environment
+envs/
+
+# Large model files (Do NOT track binaries over 100MB)
+*.h5
+*.hdf5
+
+# Mac OS temporary files
+.DS_Store
